@@ -32,3 +32,4 @@ const numberDeclare = function (num1) {
 };
 numberDeclare(5);
 // console.log((5));
+//log
