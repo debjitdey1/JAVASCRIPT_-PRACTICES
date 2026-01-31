@@ -1,0 +1,26 @@
+JavaScript Exicution Concept 
+1) Global Exicution Context
+2) Functional Exicution Context
+3) Eval Exicution Context
+
+Types Of Phases : 
+    1)Memory Creation Phases
+    2)Exicution Phases
+
+There are the Function are the 1 methods Follow Are the "LIFO" Concepts "Last In Fast out methods"
+!suppose example : 
+
+
+function one(){
+    console.log("One");
+}
+function two(){
+    console.log("Two")
+}
+function three(){
+    console.log("Three")
+}
+//This Function arre the LIFO conept
+one()
+two()
+three()
